@@ -1,0 +1,12 @@
+﻿  Building Custom Rule C:/Users/Neverland_LY/Desktop/CSFDemo/src/CMakeLists.txt
+  CMake does not need to re-run because C:/Users/Neverland_LY/Desktop/CSFDemo/src/CMakeFiles/generate.stamp is up-to-date.
+  CSF.cpp
+  Cloth.cpp
+  Constraint.cpp
+  Particle.cpp
+  Rasterization.cpp
+  XYZReader.cpp
+  c2cdist.cpp
+  point_cloud.cpp
+  正在生成代码...
+  CSF.vcxproj -> C:\Users\Neverland_LY\Desktop\CSFDemo\lib\Debug\CSF.lib
